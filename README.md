@@ -1,11 +1,9 @@
+<h2 align="center"> Hi there, I'm Mohamed Hassan 👋 </h2>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</p>
 
-  
-### Hi there, I'm Mohamed Hassan 👋
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
-
-## I'm Student at Faculty of Science, Alexandria University
+### I'm Computer Science student and Technical leader at HackerRank, Alexandria university campus ⚛
 
 - 💻 I'm currently studying to be a **MERN stack developer**
 - ⚡ Enthusiast of competitive programming
