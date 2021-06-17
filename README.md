@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there, I'm Mohamed Hassan 👋 </h2>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/MohamedHassan499" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ### I'm Computer Science student and Technical leader at HackerRank, Alexandria university campus ⚛
