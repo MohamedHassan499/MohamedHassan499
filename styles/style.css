@@ -1,0 +1,341 @@
+*{
+    margin: 0;
+    border-style: border-box;
+    text-decoration: none;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #1a252f;
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* TYPOGRAPHY */
+
+nav > h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    font-size: 1rem;
+}
+
+.portfolio > h1{
+    font-size: 4.5rem;
+}
+
+.portfolio > h3{
+    font-size: 2rem;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+/* ============= NAVBAR ============= */
+
+nav{
+    position: fixed;
+    background-color: #2b3e4f;
+    padding: 2em 0;
+    width: 100%;
+}
+
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #FFFFFF;
+}
+
+.links{
+    display: flex;
+}
+.links div{
+    padding: 0;
+    margin-right: 1.5em;
+}
+
+.links div h3{
+    cursor: pointer;
+}
+
+.links div h3:hover, .links div h3:focus{
+    color: #1c95e9;
+}
+
+.sub-menu{
+    padding: .4rem;
+    background-color: #007bce;
+    border-radius: 2px;
+    font-size: 1.225rem;
+    display: none;
+}
+
+
+/* ============= HEADER ============= */
+
+
+header{
+    width: 100%;
+    background-color: #1c95e9;
+    color: #FFFFFF;
+    padding: 5em 0;
+    text-align:center;
+}
+
+.me img{
+    margin-top: 4rem;
+    border-radius: 50%;
+}
+
+hr{
+    margin: 0 auto;
+}
+
+.portfolio{
+    margin-top: 1.775em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+hr{
+    margin: 1em auto;
+    border-radius: 3px;
+}
+
+
+/* ============= SECTION ONE ============= */
+
+.section-one,
+.section-two,
+.section-three{
+    padding: 4em 0;
+}
+
+.section-one-header, 
+.section-two-header,
+.section-three-header{
+    font-size: 2.55rem;
+    text-align: center;
+    color: #2b3e4f;
+}
+
+.section-one > hr,
+.section-two > hr,
+.section-three > hr{
+    margin: 1em auto 3.5em auto;
+}
+
+.projects{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.project-img{
+    margin-top: 1.5em;
+    width: 100%;
+}
+
+/* ============= SECTION TWO ============= */
+
+.section-two{
+    background-color: #1c95e9;
+    padding-bottom: 10em 0;
+}
+
+.section-two-header{
+    color: #FFFFFF;
+}
+
+.about{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col{
+    width: 20%;
+}
+
+.col > p{
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+
+/* ============= SECTION THREE ============= */
+
+
+.email{
+    background-color: #1c95e9;
+    color: #FFFFFF;
+    padding: 1rem;
+    border-radius: 50%;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.contact{
+    text-align: center;
+}
+
+.contact p{
+    color: grey;
+    margin-top: 2em;
+}
+
+.contact h3{
+    margin-top: 1em;
+    font-size: 1.4rem;
+}
+/* ============= FOOTER ============= */
+
+footer{
+    background-color: #2b3e4f;
+    color: white;
+    padding: 4em 0;
+}
+
+.social-links i{
+    border-radius: 50%;
+    border: 2px solid #FFFFFF;
+    padding: 1rem;
+    font-size: 1.4em;
+    margin-right: .4rem;
+}
+
+.social-links i:hover{
+    color: #212529;
+    background-color: #FFFFFF;
+}
+
+.footer-links{
+    text-align: center;
+}
+
+.footer-links-header{
+    margin-bottom: 1rem;
+}
+
+/* ============= COPYRIGHT ============= */
+
+.copyright{
+    background-color: #1a252f;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 1em;
+}
+
+
+
+@media (max-width: 1025px){
+
+    .portfolio > h1{
+        font-size: 3rem;
+    }
+    
+    .portfolio > h3{
+        font-size: 2rem;
+    }
+
+}
+
+
+@media (max-width: 769px){
+
+
+    .sub-menu{
+        display: flex;
+    }
+
+    .links{
+        display: none;
+    }
+
+    h3{
+        font-size: .6rem;
+    }
+
+    .portfolio > h1{
+        font-size: 2.3rem;
+    }
+    
+    .portfolio > h3{
+        font-size: 1.5rem;
+    }
+
+    .about{
+        display: block;
+    }
+
+    .col{
+        margin: 0 auto;
+        width: 50%;
+        margin-top: 2em;
+        display: block;
+        text-align: center;
+    }
+}
+
+
+
+@media (max-width: 481px){
+
+
+
+    .contact h3{
+        font-size: 1rem;
+    }
+
+
+    .portfolio > h1{
+        font-size: 1.5rem;
+    }
+    
+    .portfolio > h3{
+        font-size: 1rem;
+    }
+
+
+    
+}
+
+
+@media (max-width: 320px){
+
+    .footer-links-header h1{
+        font-size: 1.6rem;
+    }
+
+    .links{
+        display: none;
+    }
+}
+
+
