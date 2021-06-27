@@ -5,6 +5,7 @@
 
 ### I'm Computer Science student and Technical leader at HackerRank, Alexandria university campus ⚛
 
+- ⚡ I'm currently working as Front-End Engineer at start-up!
 - 💻 I'm currently studying to be a **MERN stack developer**
 - ⚡ Enthusiast of competitive programming
 - 🤖 Have great passion about Machine Learning stuff
