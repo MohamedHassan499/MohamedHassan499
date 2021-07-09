@@ -9,7 +9,7 @@
 - 💻 I'm currently studying to be a **MERN stack developer**
 - ⚡ Enthusiast of competitive programming
 - 🤖 Have great passion about Machine Learning stuff
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
 Email: sci.mohamedhassan2018@alexu.edu.eg
 LinkedIn too
