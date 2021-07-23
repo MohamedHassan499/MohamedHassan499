@@ -11,7 +11,7 @@
 - 🤖 Have great passion about Machine Learning stuff
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
-Email: sci.mohamedhassan2018@alexu.edu.eg
+Email: MohamedHassan499@protonmail.com
 LinkedIn too
 
 
