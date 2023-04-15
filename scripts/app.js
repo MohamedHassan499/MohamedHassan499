@@ -53,3 +53,9 @@ jobs.forEach((job) => {
     addCompanyDescription(job.id);
   });
 });
+
+setTimeout(() => {
+  document.getElementsByClassName("loader")[0].style.display = "none";
+  document.getElementsByTagName("header")[0].style.display = "block";
+  document.getElementsByTagName("main")[0].style.display = "block";
+}, 2000)();
