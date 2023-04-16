@@ -9,13 +9,39 @@
     <link href="fonts/Calibre.otf" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="style.css" />
   <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"
+    integrity="sha512-z4OUqw38qNLpn1libAN9BsoDx6nbNFio5lA6CuTp9NlK83b89hgyCVq+N5FdBJptINztxn1Z3SaKSKUS5UP60Q=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  ></script>
     <title>Farag</title>
   </head>
   <body>
 
     <div class="loader">
-
-    </div>
+  <svg id="hexagon" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g>
+      <g id="F" transform="translate(36, 33)" fill="#64FFDA" style="opacity: 0" font-family="Calibre-Medium, Calibre" font-size="50" font-weight="400" letter-spacing="4.16666603">
+        <text>
+          <tspan x="0.141666985" y="33">F</tspan>
+        </text>
+      </g>
+    <path 
+      stroke="#64FFDA" 
+      stroke-width="5" 
+      stroke-linecap="round" 
+      stroke-linejoin="round" 
+      d="M 50, 5
+         L 11, 27
+         L 11, 72
+         L 50, 95
+         L 89, 73
+         L 89, 28 z"
+          />
+      </g>
+  </svg>
+</div>
 
     <header style="display:none;">
       <nav class="navbar">
@@ -35,7 +61,7 @@
             <a href="#"><span class="number">03.</span>Work</a>
           </li>
           <li>
-            <a href="#"><span class="number">04.</span>Contact</a>
+            <a href="#contact"><span class="number">04.</span>Contact</a>
           </li>
           <li>
             <a
@@ -95,7 +121,7 @@
           </div>
         </div>
         <div class="profile-pic">
-          <img src="img/sexy-me.jpg" alt="Sexy me" />
+          <img src="img/sexy-me-green.png" alt="Sexy me" />
         </div>
       </section>
 
@@ -127,8 +153,28 @@
           </div>
         </div>
       </section>
+
+      <section class="contact" id="contact">
+        <h3 class="contact-me">
+          04. What's next?
+        </h3>
+        <h1 class="get-in-touch">Get In Touch</h1>
+        <p class="idea">Although I’m not currently looking for any new opportunities, my inbox is always open. 
+          Whether you have a question or you want to build your brilliant project, just want to say hi, I’ll try my best to get back to you!</p>
+        <a href="mailto:MohamedHassan499@protonmail.com" class="say-hello">Say Hello</a>
+      </section>
+      <footer>
+        <div class="icons">
+          <a href="https://www.linkedin.com/in/mohamedhassan499/"><svg class="icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><title>LinkedIn</title><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a>
+          <a href="https://github.com/MohamedHassan499" target="_blank"><svg class="icon" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><title>GitHub</title><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a>
+        </div>
+        <p>
+          Designed & Built by Mohamed Hassan
+        </p>
+      </footer>
     </main>
 
     <script src="scripts/app.js" type="module"></script>
+
   </body>
 </html>
