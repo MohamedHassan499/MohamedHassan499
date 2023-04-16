@@ -56,8 +56,6 @@ const anim = anime.timeline({
   direction: "alternate",
 });
 
-console.log(anim);
-
 anim
   .add({
     targets: "#hexagon path",
