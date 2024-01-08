@@ -3,13 +3,13 @@
   <a href="https://www.linkedin.com/in/MohamedHassan499" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-### I'm a Muslim Software Engineer eager to learn, share knowledge, work in teams, lead, design and solve complex tech and life problems :)
+### I'm a Muslim Software Engineer eager to learn, share knowledge, work in teams, lead, design, and solve complex tech and life problems :)
 
 - ⚡ I'm currently working as Software Engineer at <a href="https://techhive.dev/" target="_blank">Tech Hive</a>
 - ⚡ Enthusiast of competitive programming
-- 🤖 Have great passion about Machine Learning stuff
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
+- 🤖 Have a great passion for Machine Learning stuff
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for new opportunities, you can always contact me at:
 Email: MohamedHassan499@protonmail.com
 LinkedIn too
 
