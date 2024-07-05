@@ -5,7 +5,7 @@
 
 ### I'm a Muslim Software Engineer eager to learn, share knowledge, work in teams, lead, design, and solve complex tech and life problems :)
 
-- ⚡ I'm currently working as Software Engineer at <a href="https://techhive.dev/" target="_blank">Tech Hive</a>
+- ⚡ I'm currently working as Software Engineer at <a href="https://www.rabbitmart.com/" target="_blank">Rabbit</a>
 - ⚡ Enthusiast of competitive programming
 - 🤖 Have a great passion for Machine Learning stuff
 - 🥅 2024 Goals: Contribute more to Open Source projects
